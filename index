@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alberts Steinehandel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        h2 {
+            color: #4CAF50;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Willkommen bei Alberts Steinehandel</h1>
+        <p>Ihr zuverlässiger Partner für Natursteine und mehr!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Über uns</h2>
+            <p>Alberts Steinehandel ist seit über 20 Jahren im Geschäft und bietet eine große Auswahl an hochwertigen Natursteinen. Von Marmor über Granit bis hin zu Kieselsteinen – bei uns finden Sie alles, was Sie für Ihr Bauprojekt oder Ihren Garten brauchen.</p>
+        </section>
+
+        <section>
+            <h2>Unsere Produkte</h2>
+            <ul>
+                <li>Marmorplatten</li>
+                <li>Granitblöcke</li>
+                <li>Kieselsteine</li>
+                <li>Sandstein</li>
+                <li>Schotter</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Kontakt</h2>
+            <p>Besuchen Sie uns in unserem Geschäft oder kontaktieren Sie uns:</p>
+            <p>
+                Adresse: Steinweg 123, 12345 Steinburg<br>
+                Telefon: 01234 567890<br>
+                E-Mail: info@alberts-steinehandel.de
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Alberts Steinehandel - Alle Rechte vorbehalten</p>
+    </footer>
+
+</body>
+</html>
+
